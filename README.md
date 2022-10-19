@@ -1,6 +1,6 @@
 # Introduction to Fashion Nova Email
 
-[![](https://github.com/d7chau/fashion-nova-email/blob/main/img/thumbnail.png)](https://d7chau.github.io/fashion-nova-email/)
+[![](https://github.com/d7chau/fashion-nova-email/blob/main/img/fashion-nova-thumbnail.png)](https://d7chau.github.io/fashion-nova-email/)
 
 ## Description
 
